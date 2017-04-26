@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="now_playing">Now playing</string>
+    <string name="main_description">This is the main activity. From this screen the user can go to all the other activities.</string>
+    <string name="now_playing_description">This is the now playing activity. In this activity there\'s the music player with all the buttons (pause, start, next etc.) and information about the current song playing, its artist and album.</string>
+    <string name="playlists_description">This is the playlists activity. In this activity the user can check out and play musics from the playlists he created.</string>
+    <string name="artists_description">This is the artists activity. In this activity the user can select the song by choosing the artist of the song. Selecting the artist will start the Songs activity with songs from the selected artist (example below).</string>
+    <string name="albums_description">This is the albums activity. In this activity the user can select the song by choosing the album in which the song is contained. Selecting the album will start the Songs activity with songs from the selected album (example below).</string>
+    <string name="songs_description">This is the songs activity. This activity is started when the user click on a certain artist or album. In this activity the songs from the selected artists and album will be displayed and can be played. Selecting a song will take you to the Now Playing Activity (example below)</string>
+    <string name="playlists">Playlists</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="artist">\"Artist\"</string>
+    <string name="album">\"Album\"</string>
+    <string name="songs">Songs by this album/artist</string>
+    <string name="song">\"Song\"</string>
+</resources>
